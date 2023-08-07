@@ -1,0 +1,16 @@
+.pestañas_estilos {
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+.boton{
+    background-color: red;
+    font-weight: 600;
+    color: white
+}
